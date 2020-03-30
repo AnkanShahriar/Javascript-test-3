@@ -10,8 +10,8 @@
 
 <script>
 var person = {
-  firstname:"John",
-  lastname:"Doe",
+  firstname:"Jack",
+  lastname:"Hobbs",
   age:50,
   eyecolor:"blue",
   nationality:"English"
